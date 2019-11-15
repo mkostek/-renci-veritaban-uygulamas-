@@ -1,0 +1,8 @@
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\obj\Debug\ogrenciUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\obj\Debug\ogrenciUygulaması.MainForm.resources
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\obj\Debug\ogrenciUygulaması.csproj.GenerateResource.Cache
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\bin\Debug\ogrenciUygulaması.exe.config
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\bin\Debug\ogrenciUygulaması.exe
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\bin\Debug\ogrenciUygulaması.pdb
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\obj\Debug\ogrenciUygulaması.exe
+C:\Users\MERT\Documents\SharpDevelop Projects\ogrenciUygulaması\ogrenciUygulaması\obj\Debug\ogrenciUygulaması.pdb
